@@ -3,10 +3,13 @@
 
 #include "rtweekend.h"
 //抽象虚基类，抽象出一个接口， 记录好光线和物体相交的逻辑，对应的相交法线、交点以及光线的t位置记录。
+class material;//预先声明提供接口
+
 class hit_record {
 public:
     point3 p;
     vec3 normal;
+    shared_ptr<material> mat;
     double t;
     bool front_face;
 

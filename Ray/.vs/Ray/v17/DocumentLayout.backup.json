@@ -15,28 +15,32 @@
       "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\vec3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\hittable_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|solutionrelative:Project1\\rtweekend.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56139243-0578-4355-89DE-E8ECB71C5D40}|Project1\\Project1.vcxproj|C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hittable_list.h",
+              "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable_list.h",
+              "RelativeDocumentMoniker": "Project1\\hittable_list.h",
+              "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable_list.h",
+              "RelativeToolTip": "Project1\\hittable_list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T00:31:05.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "material.h",
+              "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\material.h",
+              "RelativeDocumentMoniker": "Project1\\material.h",
+              "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\material.h",
+              "RelativeToolTip": "Project1\\material.h",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwEUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-06T23:42:10.268Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -60,14 +90,14 @@
               "RelativeDocumentMoniker": "Project1\\camera.h",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\camera.h",
               "RelativeToolTip": "Project1\\camera.h",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFoAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwGsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T08:34:07.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "interval.h",
               "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\interval.h",
               "RelativeDocumentMoniker": "Project1\\interval.h",
@@ -80,59 +110,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "rtweekend.h",
               "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\rtweekend.h",
               "RelativeDocumentMoniker": "Project1\\rtweekend.h",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\rtweekend.h",
               "RelativeToolTip": "Project1\\rtweekend.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T07:15:15.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "hittable_list.h",
-              "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable_list.h",
-              "RelativeDocumentMoniker": "Project1\\hittable_list.h",
-              "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable_list.h",
-              "RelativeToolTip": "Project1\\hittable_list.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-06T06:53:01.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "sphere.h",
               "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\sphere.h",
               "RelativeDocumentMoniker": "Project1\\sphere.h",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\sphere.h",
               "RelativeToolTip": "Project1\\sphere.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T06:17:06.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "hittable.h",
               "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable.h",
               "RelativeDocumentMoniker": "Project1\\hittable.h",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\hittable.h",
               "RelativeToolTip": "Project1\\hittable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T05:56:28.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "ray.h",
               "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\ray.h",
               "RelativeDocumentMoniker": "Project1\\ray.h",
@@ -145,13 +162,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "color.h",
               "DocumentMoniker": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\color.h",
               "RelativeDocumentMoniker": "Project1\\color.h",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\color.h",
               "RelativeToolTip": "Project1\\color.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T04:33:29.541Z",
               "EditorCaption": ""
@@ -164,7 +181,7 @@
               "RelativeDocumentMoniker": "Project1\\vec3.h",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\vec3.h",
               "RelativeToolTip": "Project1\\vec3.h",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAiwHQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T04:32:36.525Z",
               "EditorCaption": ""
@@ -177,7 +194,7 @@
               "RelativeDocumentMoniker": "Project1\\main.cpp",
               "ToolTip": "C:\\Users\\kiiye\\Desktop\\Git\\RayTracingInOneWeeknd\\Ray\\Project1\\main.cpp",
               "RelativeToolTip": "Project1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-06T04:28:16.774Z",
               "EditorCaption": ""
